@@ -1,10 +1,13 @@
 # BaralhoGame
-*Uma pequena aplicaçāo de um jogo de baralho usando o conceito de pilha e fila em Java.*
+*An application using the Java Stack and Queue concept creatively in a game of cards.*
 
-# Pilha E Fila
-Ambos usados na criçao dos metodos, e usando os principais conceitos de pop, push 
+# Stack AND Queue
 
-*O codigo esta comentado para maior entendimento e possiveis melhorias*
+*Both used in creating the methods, and using the main concepts of pop, push*
+
+*The code is commented on for further understanding and possible improvements*
+
+*Enjoy! And I hope the you like*
 
 
 
